@@ -1,0 +1,21 @@
+id|nombre_completo|correo_electronico|cargo
+1|Nelinho Hurtado Calderon|nelinhohc@kpmg.com|Asistente
+2|Harry Bujaico Llacua|harrybl@kpmg.com|Asistente
+3|Pablo Rojas Quispe|pablorojas@kpmg.com|Senior
+4|Elmer Valderrama Danos|evalderramad@kpmg.com|Gerente
+5|Pierina De La Torre Jaramillo|pierinadlt@kpmg.com|Asistente
+6|Miriam Torres Mercado|miriamtorresm@kpmg.com|Asistente
+7|Nathaly Sanchez Vasquez|nathalysv@kpmg.com|Asistente
+8|Ivan Mejía Murrugarra|ivanmejia@kpmg.com|Director
+9|Miluska Solano Vidal|solanomiluska@kpmg.com|Director
+10|Bertha Arteaga Salas|berthaas@kpmg.com|Asistente
+11|Matias Canales Mangiante|canalesmatias@kpmg.com|Asistente
+12|Sharon Huerta Alarcon|sharonha@kpmg.com|Asistente
+13|Anthony Cespedes Ferro|anthonycf@kpmg.com|Asistente
+14|Fernando Medina Villalobos|fernandomedina@kpmg.com|Senior
+15|Angie Bravo Tarazona|angiebt@kpmg.com|Senior
+16|Ahmed Vega Cruces|ahmedvega@kpmg.com|Socio
+17|Doris Navarro Montalvo|dorisnavarro@kpmg.com|Gerente
+18|Malu Díaz Del Pino|maludiazdp@kpmg.com|Encargado
+19|Diana Mosquera Portuguez|dianamp@kpmg.com|Encargado
+20|Juan Carlos Arana Huayta|juancarlosah@kpmg.com|Gerente

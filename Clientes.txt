@@ -1,0 +1,16 @@
+id|razon_social|ruc|correo_electronico|direccion|telefono
+1|BANCO DE CREDITO DEL PERU|20100047218|consultas@bcp.com.pe|Jr. Centenario Nro. 156 - La Molina, Lima, Perú|3119898
+2|ENGIE ENERGIA PERU S.A.|20333363900|informes@engie.com|Av. Republica de Panama Nro. 3490 - San Isidro, Lima, Perú|6167979
+3|L'OREAL PERU S.A.|20416414018|asesorias@loreal.com.pe|Jr. Mariscal la Mar Nro. 991 Dpto. P-8 - Magdalena Del Mar, Lima, Perú|2300100
+4|GENERAL MOTORS PERU S A|20261126568|contacto@gm.com|Av. Juan de Arona Nro. 151 Int. 405 - San Isidro, Lima, Perú|2010930
+5|CITIBANK DEL PERU S.A.|20100116635|citiservice.peru@citi.com|Av. Canaval y Moreyra Nro. 480 Int. 301 - San Isidro, Lima, Perú|5136001
+6|BANCO BBVA PERU|20100130204|atencion@bbva.com.pe|Av. Republica de Panama Nro. 3055 - San Isidro, Lima, Perú|5950000
+7|PONTIFICIA UNIVERSIDAD CATOLICA DEL PERU|20155945860|informacion@pucp.edu.pe|Av. Universitaria Nro. 1801 - San Miguel, Lima, Perú|6262000
+8|BANCO INTERNACIONAL DEL PERU-INTERBANK|20100053455|informes_ibk@intercorp.com.pe|Av. Carlos Villaran Nro. 140 - La Victoria, Lima, Perú|3119000
+9|BELCORP CORPORATE SERVICES S.A.C.|20601050120|compras@belcorp.com.pe|Av. Felipe Pardo y Aliaga Nro. 652 Int. 501 - San Isidro, Lima, Perú|2113300
+10|MINISTERIO DE VIVIENDA, CONSTRUCCION Y SANEAMIENTO|20504743307|ministerio@vivienda.gob.pe|Av. Republica de Panama Nro. 3650 - San Isidro, Lima, Perú|2117930
+11|UNIVERSIDAD DE INGENIERIA Y TECNOLOGIA|20545990998|informes@utec.edu.pe|Jr. Medrano Silva Nro. 165 - Barranco, Lima, Perú|2305010
+12|ASUS PERU S.A.C|20554382933|equipos@asus.com.pe|Av. Dionisio Derteano Nro. 184 - San Isidro, Lima, Perú|080000793
+13|CLINICA INTERNACIONAL S A|20100054184|consultas@ci.com.pe|Jr. Washington Nro. 1471 - Lima, Lima, Perú|6196161
+14|REPSOL COMERCIAL SAC|20503840121|atencion@repsol.com.pe|Av. Victor Andres Belaunde Nro. 147 - San Isidro, Lima, Perú|2156225
+15|REAL PLAZA S.R.L.|20511315922|contacto@realplaza.pe|Av. Punta del Este Nro. 2403 - Jesús María, Lima, Perú|6014000
